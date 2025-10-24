@@ -16,7 +16,7 @@ Role,Code,Nombre de personne
 - un pie chart https://app.rawgraphs.io/
   
 ## les représentations de données
-- la taille des segment est proportionnelle au nombre de personne pour chaque rôle
+- la taille des segments est proportionnelle au nombre de personne pour chaque rôle
 
 ## les interactions avec l'environnement
 - A la sélection d'un segment on affiche le nombre de personne
