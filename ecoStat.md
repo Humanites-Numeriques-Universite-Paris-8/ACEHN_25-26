@@ -13,17 +13,17 @@ La table des rôles est organisées sous la forme d'un tableau avec les colonnes
 Role,Code,Nombre de personne
 ```
 ## structures visuelles
-- un pie chart https://app.rawgraphs.io/
-
+- un pie chart
 ```mermaid
 pie title Pets adopted by volunteers
-    "Dogs" : 386
-    "Cats" : 85
-    "Rats" : 15
+    "avocat" : 386
+    "inventeur" : 85
+    "lecteur" : 15
 ```
   
 ## les représentations de données
 - la taille des segments est proportionnelle au nombre de personne pour chaque rôle
 
 ## les interactions avec l'environnement
-- A la sélection d'un segment on affiche le nombre de personne
+- En passant sur un segment on affiche le nombre de personne
+- En cliquant sur un segment on ajoute une personne
