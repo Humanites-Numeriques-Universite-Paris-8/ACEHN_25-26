@@ -14,6 +14,14 @@ Role,Code,Nombre de personne
 ```
 ## structures visuelles
 - un pie chart https://app.rawgraphs.io/
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
   
 ## les représentations de données
 - la taille des segments est proportionnelle au nombre de personne pour chaque rôle
