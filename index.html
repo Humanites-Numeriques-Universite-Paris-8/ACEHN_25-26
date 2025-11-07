@@ -181,7 +181,7 @@ var dataPhoto, dataForm, dataFacet=[], dataDoublons={}
 
     function setData(data){
 
-            dataForm = data[0];
+            dataForm = data[0].filter(d => d['Horodateur'] ); //supprime les lignes vides
             let dataEtu = []; 
             
 
