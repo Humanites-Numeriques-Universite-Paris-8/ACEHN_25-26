@@ -3,6 +3,8 @@
 cf. https://www.observatoireethiquepublique.com/assets/files/propositions/livre-blanc/livre-blanc-64-propositions-pour-une-ethique-des-systemes-dintelligence-artificielle_rm.pdf
 
 1. Créer un item avec le ressource_template : Raison trajective
-2. Copier la proposition avec son numéro
+2. Copier une proposition avec son numéro
 3. Coller la proposition comme titre de l'item
-4. Ajouter la références au Livre blanc dans une proprité "dcterms:isPartOf" : sélectionner la ressource = 64859
+4. Ajouter la références au Livre blanc dans une proprité "dcterms:isPartOf" avec comme valeur la ressource omk = 64859
+5. Décomposer la proposition en autant de pulsation existentielle
+6. 
